@@ -1,6 +1,6 @@
 # Fling in Canvas
 
-[DEMO](https://blog.mirreal.net/fling-canvas/index.html) 
+[DEMO](https://trucyx.github.io/fling/) 
 
 使用 JavaScript 实现的 fling！，一个趣味十足的创意游戏。
 
